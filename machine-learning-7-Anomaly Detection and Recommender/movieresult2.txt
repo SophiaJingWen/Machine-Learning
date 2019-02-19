@@ -1,0 +1,62 @@
+56 Pulp Fiction (1994) ¡¾3¡¿
+
+64 Shawshank Redemption, The (1994) ¡¾5¡¿
+
+69 Forrest Gump (1994) ¡¾5¡¿
+
+88 Sleepless in Seattle (1993) ¡¾3¡¿
+
+98 Silence of the Lambs, The (1991) ¡¾4¡¿
+
+127 Godfather, The (1972) ¡¾5¡¿
+
+
+196 Dead Poets Society (1989) ¡¾3¡¿
+
+255 My Best Friend's Wedding (1997) ¡¾4¡¿
+
+318 Schindler's List (1993) ¡¾3¡¿
+
+654 Chinatown (1974) ¡¾5¡¿
+
+Predicting rating 5.0 for movie Great Day in Harlem, A (1994)
+Predicting rating 5.0 for movie Santa with Muscles (1996)
+Predicting rating 5.0 for movie Aiqing wansui (1994)
+Predicting rating 5.0 for movie Marlene Dietrich: Shadow and Light (1996)
+Predicting rating 5.0 for movie Prefontaine (1997)
+Predicting rating 5.0 for movie Saint of Fort Washington, The (1993)
+Predicting rating 5.0 for movie They Made Me a Criminal (1939)
+Predicting rating 5.0 for movie Someone Else's America (1995)
+Predicting rating 5.0 for movie Entertaining Angels: The Dorothy Day Story (1996)
+Predicting rating 5.0 for movie Star Kid (1997)
+
+
+
+56 Pulp Fiction (1994) ¡¾3¡¿
+
+64 Shawshank Redemption, The (1994) ¡¾4¡¿
+
+69 Forrest Gump (1994) ¡¾5¡¿
+
+88 Sleepless in Seattle (1993) ¡¾2¡¿
+
+98 Silence of the Lambs, The (1991) ¡¾4¡¿
+
+127 Godfather, The (1972) ¡¾5¡¿
+
+133 Gone with the Wind (1939) ¡¾4¡¿
+
+178 12 Angry Men (1957) ¡¾5¡¿
+
+196 Dead Poets Society (1989) ¡¾3¡¿
+
+199 Bridge on the River Kwai, The (1957) ¡¾3¡¿
+
+212 Unbearable Lightness of Being, The (1988)¡¾3¡¿
+
+255 My Best Friend's Wedding (1997) ¡¾4¡¿
+
+318 Schindler's List (1993) ¡¾3¡¿
+
+654 Chinatown (1974) ¡¾5¡¿
+
